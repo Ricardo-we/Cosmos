@@ -1,0 +1,58 @@
+.titulo{
+    text-align: center;
+    font-size: 60px;
+    color: #4A4242 ;
+   
+}
+
+.main_galaxias{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.vialactea{
+    width: 300px;
+    margin-left: 20px;
+    border: #4A4242 solid 2px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.titulo_via{
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+.text_vialactea{
+    text-align: justify;
+}
+
+.masInfo{
+    display: inline-block;
+    margin-left: 85px;
+    background-color: #FC4A12;
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    padding-top: 25px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+.masInfo2{
+    display: inline-block;
+    margin-left: 85px;
+    background-color: #FC4A12;
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    padding-top: 25px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 60px;
+    
+}
