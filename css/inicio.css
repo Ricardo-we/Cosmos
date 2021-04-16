@@ -1,0 +1,61 @@
+#nombreAlumno{
+    text-align: center;
+    font-size: 60px;
+}
+
+.contenedor_links{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.links_element1{
+    background-color:#FC4A12;
+    padding-top: 10px; 
+    padding-bottom: 5px;
+    width: 160px;
+    height: 40px;
+    text-decoration: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.links_element1:hover{
+    background-color: gray;
+}
+
+.links_element2{
+    background-color:#E06110;
+    padding-top: 10px; 
+    padding-bottom: 5px;
+    width: 160px;
+    height: 40px;
+    text-decoration: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.links_element2:hover{
+    background-color: gray;
+}
+
+.links_element3{
+    background-color:#F8931F;
+    padding-top: 10px; 
+    padding-bottom: 5px;
+    width: 160px;
+    height: 40px;
+    text-decoration: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.links_element3:hover{
+    background-color: gray;
+}
