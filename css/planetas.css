@@ -1,0 +1,32 @@
+.planetas{
+    margin: auto;
+}
+
+.tituloPlanetas{
+    text-align: center;
+    margin-bottom: 30px;
+    color: gray;
+    font-size: 60px;
+}
+
+.contenedor_imagenes{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.planetas_img{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid gray;
+    border-radius: 40px;
+
+}
+
+.planetas_img:hover{
+    background-color: navajowhite;
+}

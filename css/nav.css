@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    width: 1100px;
+    margin: auto;
+}
+
+.main_nav{
+    text-align: left;
+    height: auto;
+    margin:auto;
+}
+
+.nav_li{
+    border-bottom: solid black 2px;
+    list-style: none;
+}
+
+.nav:a{
+    text-decoration: none;
+    margin: auto;
+}
+.arrow{
+    width: 20px;
+    height: 20px;
+    transform: rotate(-180deg);
+    border: 2px solid orange;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.arrow:hover{
+    background-color: orange;
+}
